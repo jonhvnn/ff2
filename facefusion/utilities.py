@@ -17,7 +17,6 @@ import facefusion.globals
 from facefusion import wording
 from facefusion.vision import detect_fps
 
-TEMP_DIRECTORY_PATH = '/content/drive/MyDrive/Facefusion/temp/'
 TEMP_DIRECTORY_PATH = os.path.join('/content/drive/MyDrive/Facefusion/temp', 'facefusion')
 TEMP_OUTPUT_VIDEO_NAME = 'temp.mp4'
 
